@@ -1,0 +1,1159 @@
+﻿Log file open, 12/03/18 21:25:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FinalMetroVR
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.582145
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DatasmithMDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogStreaming: Display: Took  0.086s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz, GPU: NVIDIA Quadro P4000
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.03-23.25.10:955][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-23.25.10:955][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.03-23.25.10:971][  0]LogHAL: Display: Platform has ~ 32 GB [33984983040 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.03-23.25.10:971][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.03-23.25.10:971][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.03-23.25.10:972][  0]LogInit: Computer: JTVARPC01
+[2018.12.03-23.25.10:972][  0]LogInit: User: 11510763
+[2018.12.03-23.25.10:972][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.12.03-23.25.10:972][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.12.03-23.25.10:972][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2018.12.03-23.25.10:972][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.03-23.25.10:972][  0]LogMemory: Process Physical Memory: 102.77 MB used, 102.77 MB peak
+[2018.12.03-23.25.10:972][  0]LogMemory: Process Virtual Memory: 95.91 MB used, 95.91 MB peak
+[2018.12.03-23.25.10:972][  0]LogMemory: Physical Memory: 7489.36 MB used,  24921.25 MB free, 32410.61 MB total
+[2018.12.03-23.25.10:972][  0]LogMemory: Virtual Memory: 4689.70 MB used,  24921.25 MB free, 134217728.00 MB total
+[2018.12.03-23.25.10:997][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.12.03-23.25.10:997][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.12.03-23.25.11:498][  0]LogStreaming: Display: Took  0.500s to InitEngineTextLocalization.
+[2018.12.03-23.25.11:498][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.03-23.25.11:544][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.03-23.25.11:544][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.03-23.25.14:941][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.03-23.25.15:020][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P4000' (Feature Level 11_0)
+[2018.12.03-23.25.15:020][  0]LogD3D11RHI:       8090/0/16205 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.03-23.25.15:023][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.03-23.25.15:023][  0]LogD3D11RHI:       0/0/16205 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.03-23.25.15:023][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.03-23.25.15:034][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.03-23.25.15:034][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb1 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.03-23.25.15:034][  0]LogWindows: EnumDisplayDevices:
+[2018.12.03-23.25.15:036][  0]LogWindows:    0. 'NVIDIA Quadro P4000' (P:1 D:1)
+[2018.12.03-23.25.15:036][  0]LogWindows:    1. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.12.03-23.25.15:036][  0]LogWindows:    2. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.12.03-23.25.15:037][  0]LogWindows:    3. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.12.03-23.25.15:037][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.03-23.25.15:037][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P4000
+[2018.12.03-23.25.15:037][  0]LogD3D11RHI:   Driver Version: 416.30 (internal:25.21.14.1630, unified:416.30)
+[2018.12.03-23.25.15:037][  0]LogD3D11RHI:      Driver Date: 10-9-2018
+[2018.12.03-23.25.15:037][  0]LogRHI: Texture pool is 5663 MB (70% of 8090 MB)
+[2018.12.03-23.25.15:095][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.03-23.25.15:116][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.03-23.25.15:118][  0]LogShaderCompilers: Guid format shader working directory is 33 characters bigger than the processId version (D:/FinalMetroVR/Intermediate/Shaders/WorkingDirectory/20004/).
+[2018.12.03-23.25.15:118][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/11510763/AppData/Local/Temp/UnrealShaderWorkingDir/955BC4374D6D9389DAA32E8173052029/'.
+[2018.12.03-23.25.15:453][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.03-23.25.15:471][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.03-23.25.15:488][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.03-23.25.15:506][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.03-23.25.15:524][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.03-23.25.15:542][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.03-23.25.15:560][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.03-23.25.15:578][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.03-23.25.15:586][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.25.15:691][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.03-23.25.15:762][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-23.25.15:762][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-23.25.15:793][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-23.25.15:793][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-23.25.15:809][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.03-23.25.15:826][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.03-23.25.15:842][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.03-23.25.15:860][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.03-23.25.15:872][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-23.25.15:872][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.03-23.25.15:953][  0]LogXGEController: Cleaning working directory: C:/Users/11510763/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.03-23.25.15:953][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.03-23.25.15:953][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.03-23.25.15:953][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.03-23.25.16:931][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.03-23.25.17:021][  0]LogDerivedDataCache: Loaded boot cache 0.09s 88MB C:/Users/11510763/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.03-23.25.17:021][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/11510763/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.03-23.25.17:021][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/FinalMetroVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.03-23.25.17:021][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.03-23.25.17:021][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/FinalMetroVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-23.25.17:021][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.03-23.25.17:039][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.03-23.25.17:052][  0]LogDerivedDataCache: Using Local data cache path C:/Users/11510763/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.03-23.25.17:052][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.03-23.25.17:052][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.03-23.25.17:079][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.03-23.25.17:081][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.03-23.25.17:082][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.03-23.25.17:178][  0]LogAssetRegistry: FAssetRegistry took 0.0283 seconds to start up
+[2018.12.03-23.25.17:601][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-23.25.17:772][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.03-23.25.17:777][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.03-23.25.17:777][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.03-23.25.17:777][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.03-23.25.17:777][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.03-23.25.17:803][  0]LogNetVersion: FinalMetroVR 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 589362125)
+[2018.12.03-23.25.18:400][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.064652 seconds
+[2018.12.03-23.25.18:410][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.03-23.25.18:410][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.03-23.25.18:410][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.03-23.25.19:496][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.03-23.25.19:511][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.03-23.25.19:683][  0]SourceControl: Source control is disabled
+[2018.12.03-23.25.19:683][  0]SourceControl: Source control is disabled
+[2018.12.03-23.25.19:685][  0]SourceControl: Source control is disabled
+[2018.12.03-23.25.19:686][  0]SourceControl: Source control is disabled
+[2018.12.03-23.25.19:878][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.03-23.25.19:984][  0]LogOcInput: OculusInput pre-init called
+[2018.12.03-23.25.22:518][  0]LogEngine: Initializing Engine...
+[2018.12.03-23.25.22:606][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-896957F3
+[2018.12.03-23.25.22:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-23.25.22:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-23.25.22:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-23.25.22:609][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-23.25.22:872][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.03-23.25.22:890][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.03-23.25.22:922][  0]LogInit: XAudio2 using 'VIVE Pro (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-23.25.22:944][  0]LogInit: FAudioDevice initialized.
+[2018.12.03-23.25.22:944][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.03-23.25.23:052][  0]LogDerivedDataCache: Saved boot cache 0.11s 88MB C:/Users/11510763/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.03-23.25.23:084][  0]LogInit: Texture streaming: Enabled
+[2018.12.03-23.25.23:108][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.03-23.25.23:129][  0]LogInit: Transaction tracking system initialized
+[2018.12.03-23.25.23:160][  0]BlueprintLog: New page: Editor Load
+[2018.12.03-23.25.23:261][  0]LocalizationService: Localization service is disabled
+[2018.12.03-23.25.23:572][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.03-23.25.23:572][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.03-23.25.23:572][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.03-23.25.23:572][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-23.25.23:572][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-23.25.23:572][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-23.25.23:572][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-23.25.23:726][  0]LogFileCache: Scanning file cache for directory 'D:/FinalMetroVR/Content/' took 0.02s
+[2018.12.03-23.25.25:261][  0]SourceControl: Source control is disabled
+[2018.12.03-23.25.25:261][  0]Cmd: MAP LOAD FILE="D:/FinalMetroVR/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-23.25.25:262][  0]LightingResults: New page: Lighting Build
+[2018.12.03-23.25.25:266][  0]MapCheck: New page: Map Check
+[2018.12.03-23.25.25:266][  0]LightingResults: New page: Lighting Build
+[2018.12.03-23.25.25:438][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.12.03-23.25.25:447][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-23.25.25:496][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-23.25.25:593][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.523ms to complete.
+[2018.12.03-23.25.25:593][  0]LogFileHelpers: Loading map 'StartupMap' took 0.332
+[2018.12.03-23.25.25:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.25.25:719][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.25.25:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.25.25:740][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.25.25:749][  0]LogCollectionManager: Loaded 0 collections in 0.002377 seconds
+[2018.12.03-23.25.25:793][  0]LogFileCache: Scanning file cache for directory 'D:/FinalMetroVR/Saved/Collections/' took 0.01s
+[2018.12.03-23.25.25:793][  0]LogFileCache: Scanning file cache for directory 'D:/FinalMetroVR/Content/Developers/11510763/Collections/' took 0.01s
+[2018.12.03-23.25.25:793][  0]LogFileCache: Scanning file cache for directory 'D:/FinalMetroVR/Content/Collections/' took 0.01s
+[2018.12.03-23.25.25:793][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.03-23.25.25:807][  0]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 2621 classes and 629 folders.
+[2018.12.03-23.25.25:816][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-23.25.25:873][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-23.25.25:880][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.03-23.25.25:900][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.03-23.25.25:902][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.03-23.25.25:909][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.03-23.25.26:008][  0]LogRenderer: Reallocating scene render targets to support 960x456 Format 26 NumSamples 1 (Frame:1).
+[2018.12.03-23.25.26:140][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-23.25.26:141][  0]LogLoad: (Engine Initialization) Total time: 18.10 seconds
+[2018.12.03-23.25.26:141][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.03-23.25.26:161][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-23.25.26:199][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.03-23.25.26:224][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-23.25.26:327][  2]LogAssetRegistry: Asset discovery search completed in 9.1713 seconds
+[2018.12.03-23.25.26:329][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.03-23.25.26:329][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000089 seconds (updated 0 objects)
+[2018.12.03-23.25.27:176][ 99]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-23.25.32:277][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.25.33:644][722]LogBlueprint: Warning: [Compiler SevarogPlayerCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.12.03-23.25.33:644][722]LogBlueprint: Warning: [Compiler SevarogPlayerCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.12.03-23.25.33:644][722]LogBlueprint: Warning: [Compiler SevarogPlayerCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2018.12.03-23.25.33:644][722]LogBlueprint: Warning: [Compiler SevarogPlayerCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.12.03-23.25.33:644][722]LogBlueprint: Warning: [Compiler SevarogPlayerCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.12.03-23.25.33:645][722]LogBlueprint: Warning: [Compiler SevarogPlayerCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.12.03-23.25.33:645][722]LogBlueprint: Warning: [Compiler SevarogPlayerCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.12.03-23.25.33:645][722]LogBlueprint: Warning: [Compiler SevarogPlayerCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.12.03-23.25.33:661][722]LogBlueprint: Warning: [Compiler SevarogPlayerCharacter] [0025.62] Compile of SevarogPlayerCharacter successful, but with 8 Warning(s) [in 64 ms] (/Game/ParagonSevarog/Characters/Heroes/Sevarog/SevarogPlayerCharacter.SevarogPlayerCharacter)
+[2018.12.03-23.25.34:459][722]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.12.03-23.25.34:459][722]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.12.03-23.25.34:581][722]LogPackageName: SearchForPackageOnDisk took   0.122s, but failed to resolve FX_Meshes.
+[2018.12.03-23.25.34:581][722]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2018.12.03-23.25.35:995][722]LogAIModule: Creating AISystem for world Fase_VR_Terror-Mapa_corrigido
+[2018.12.03-23.25.36:119][722]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido
+[2018.12.03-23.25.36:179][722]Cmd: MAP LOAD FILE="D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-23.25.36:179][722]LightingResults: New page: Lighting Build
+[2018.12.03-23.25.36:180][722]LoadErrors: New page: Loading map: Fase_VR_Terror-Mapa_corrigido.umap
+[2018.12.03-23.25.36:181][722]MapCheck: New page: Map Check
+[2018.12.03-23.25.36:181][722]LightingResults: New page: Lighting Build
+[2018.12.03-23.25.36:239][722]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.25.36:239][722]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.25.36:239][722]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.25.36:239][722]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.25.36:239][722]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.25.36:239][722]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.25.36:384][722]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-23.25.36:470][722]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-23.25.36:665][722]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 196.19ms to complete.
+[2018.12.03-23.25.36:667][722]LogFileHelpers: Loading map 'Fase_VR_Terror-Mapa_corrigido' took 0.490
+[2018.12.03-23.25.38:883][902]MapCheck: New page: Map Check
+[2018.12.03-23.25.38:902][902]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.03-23.25.38:902][902]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.03-23.25.39:177][902]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.25.39:177][902]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.25.39:177][902]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.25.39:178][902]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.25.39:178][902]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.25.39:178][902]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.25.40:121][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.12.03-23.25.40:132][902]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.03-23.25.40:132][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_Old, compiling. 
+[2018.12.03-23.25.40:140][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Tiles, compiling. 
+[2018.12.03-23.25.40:148][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_CobbleStone_Rough, compiling. 
+[2018.12.03-23.25.40:158][902]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.40:158][902]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.03-23.25.40:158][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.12.03-23.25.40:165][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_Beveled, compiling. 
+[2018.12.03-23.25.40:172][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Floor_02_Masked, compiling. 
+[2018.12.03-23.25.40:180][902]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.03-23.25.40:180][902]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.03-23.25.40:180][902]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.40:180][902]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.03-23.25.40:180][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rock_Slate, compiling. 
+[2018.12.03-23.25.40:190][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Panels, compiling. 
+[2018.12.03-23.25.40:199][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Rust, compiling. 
+[2018.12.03-23.25.40:207][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Steel, compiling. 
+[2018.12.03-23.25.40:215][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shelf, compiling. 
+[2018.12.03-23.25.40:223][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.12.03-23.25.40:234][902]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.03-23.25.40:234][902]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.03-23.25.40:234][902]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.03-23.25.40:234][902]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.03-23.25.40:234][902]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.40:234][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.12.03-23.25.40:244][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy 40874767-grunge-ripped-poster-background-texture-of-torn-advertisement-on-an-old-rusty-billboard-panel_Mat, compiling. 
+[2018.12.03-23.25.40:254][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy depositphotos_109478810-stock-photo-old-urban-street-billboard-with_Mat, compiling. 
+[2018.12.03-23.25.40:262][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy joker_Mat, compiling. 
+[2018.12.03-23.25.40:270][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.12.03-23.25.40:277][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy TexturesCom_Rails0021_2_M_Mat_Inst, compiling. 
+[2018.12.03-23.25.40:285][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.12.03-23.25.40:293][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bench_01_Masked, compiling. 
+[2018.12.03-23.25.40:305][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bin_01, compiling. 
+[2018.12.03-23.25.40:315][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lava_flows_trans, compiling. 
+[2018.12.03-23.25.40:323][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Fusebox_Masked, compiling. 
+[2018.12.03-23.25.40:330][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2018.12.03-23.25.40:338][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2018.12.03-23.25.40:345][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2018.12.03-23.25.40:353][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Heat_Distortion, compiling. 
+[2018.12.03-23.25.40:360][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.12.03-23.25.40:367][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lantern, compiling. 
+[2018.12.03-23.25.40:373][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Flare_04_INST, compiling. 
+[2018.12.03-23.25.40:379][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Flare_06_INST, compiling. 
+[2018.12.03-23.25.40:385][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_AuraCircle, compiling. 
+[2018.12.03-23.25.40:391][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Spark, compiling. 
+[2018.12.03-23.25.40:397][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Smoke_02_Trans_6X6_INST, compiling. 
+[2018.12.03-23.25.40:403][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BlastMark_Trans_INST, compiling. 
+[2018.12.03-23.25.40:408][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Smoke_01_8X8_INST, compiling. 
+[2018.12.03-23.25.40:414][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Swipe_Mesh_Add_2Sided_01_INST, compiling. 
+[2018.12.03-23.25.40:420][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Liquid_Spray_01_4X6_INST, compiling. 
+[2018.12.03-23.25.40:427][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Master_Pipe, compiling. 
+[2018.12.03-23.25.40:434][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Cable_02, compiling. 
+[2018.12.03-23.25.40:440][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Server_01_Masked_6, compiling. 
+[2018.12.03-23.25.40:449][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_EnemyChicken, compiling. 
+[2018.12.03-23.25.40:458][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy FirstPersonProjectileMaterial, compiling. 
+[2018.12.03-23.25.40:465][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Burnished_Steel, compiling. 
+[2018.12.03-23.25.40:472][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy phong1, compiling. 
+[2018.12.03-23.25.40:479][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.12.03-23.25.40:486][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Master_Alpha_Simple, compiling. 
+[2018.12.03-23.25.40:493][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Burnished_Steel_2, compiling. 
+[2018.12.03-23.25.40:500][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair_2, compiling. 
+[2018.12.03-23.25.40:507][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.12.03-23.25.40:513][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy phong2, compiling. 
+[2018.12.03-23.25.40:520][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sevarog_Torso, compiling. 
+[2018.12.03-23.25.40:556][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sevarog_ArmourRuins, compiling. 
+[2018.12.03-23.25.40:590][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sevarog_Back_01, compiling. 
+[2018.12.03-23.25.40:634][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sevarog_Chainmail, compiling. 
+[2018.12.03-23.25.40:677][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sevarog_Hammer_01, compiling. 
+[2018.12.03-23.25.40:717][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_invis, compiling. 
+[2018.12.03-23.25.40:732][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_IceBlastBase, compiling. 
+[2018.12.03-23.25.40:745][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_DeathPlane_01, compiling. 
+[2018.12.03-23.25.40:754][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_Sheet_01_INST, compiling. 
+[2018.12.03-23.25.40:763][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.44:599][902]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.03-23.25.44:600][902]TextureStreamingBuild: Display: Compiling optional shaders took 4.485 seconds.
+[2018.12.03-23.25.45:099][902]LogLevel: Display: Export Material TexCoord Scales took 0.499 seconds.
+[2018.12.03-23.25.45:218][902]TextureStreamingBuild: Display: Build Texture Streaming took 0.119 seconds.
+[2018.12.03-23.25.45:270][902]LightingResults: New page: Lighting Build - Dec 3, 2018, 7:25:45 PM
+[2018.12.03-23.25.45:318][902]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.03-23.25.45:446][902]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.03-23.25.45:462][902]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.03-23.25.45:974][902]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.03-23.25.45:974][902]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20004
+[2018.12.03-23.25.49:208][902]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.12.03-23.25.49:209][902]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.03-23.25.49:209][902]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.03-23.25.49:209][902]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.03-23.25.49:209][902]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.03-23.25.49:209][902]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.03-23.25.49:359][902]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.03-23.25.49:359][902]MapCheck: New page: Fase_VR_Terror-Mapa_corrigido - Dec 3, 2018, 7:25:49 PM
+[2018.12.03-23.25.49:574][902]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 215.361ms to complete.
+[2018.12.03-23.25.49:598][902]LogEditorBuildUtils: Build time 0:10
+[2018.12.03-23.25.49:616][902]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2018.12.03-23.25.49:628][902]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2018.12.03-23.25.49:659][902]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.49:659][902]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.49:679][903]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Shelf, compiling. 
+[2018.12.03-23.25.49:687][903]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.49:687][903]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Shelf, compiling. 
+[2018.12.03-23.25.49:697][903]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.49:734][904]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2018.12.03-23.25.49:742][904]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.49:743][904]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2018.12.03-23.25.49:753][905]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.49:761][905]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2018.12.03-23.25.49:770][905]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.49:770][905]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2018.12.03-23.25.49:783][906]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.49:792][906]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer 40874767-grunge-ripped-poster-background-texture-of-torn-advertisement-on-an-old-rusty-billboard-panel_Mat, compiling. 
+[2018.12.03-23.25.49:803][906]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.49:803][906]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer 40874767-grunge-ripped-poster-background-texture-of-torn-advertisement-on-an-old-rusty-billboard-panel_Mat, compiling. 
+[2018.12.03-23.25.49:816][907]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.49:825][907]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer depositphotos_109478810-stock-photo-old-urban-street-billboard-with_Mat, compiling. 
+[2018.12.03-23.25.49:836][907]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.49:836][907]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer depositphotos_109478810-stock-photo-old-urban-street-billboard-with_Mat, compiling. 
+[2018.12.03-23.25.49:850][908]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-23.25.49:861][908]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer joker_Mat, compiling. 
+[2018.12.03-23.25.49:874][908]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer joker_Mat, compiling. 
+[2018.12.03-23.25.49:908][909]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2018.12.03-23.25.49:920][909]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2018.12.03-23.25.49:951][910]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Lamp, compiling. 
+[2018.12.03-23.25.49:963][910]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Lamp, compiling. 
+[2018.12.03-23.25.49:994][911]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Bench_01_Masked, compiling. 
+[2018.12.03-23.25.50:006][911]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Bench_01_Masked, compiling. 
+[2018.12.03-23.25.50:032][912]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Bin_01, compiling. 
+[2018.12.03-23.25.50:044][912]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Bin_01, compiling. 
+[2018.12.03-23.25.50:070][913]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Lava_flows_trans, compiling. 
+[2018.12.03-23.25.50:083][913]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Lava_flows_trans, compiling. 
+[2018.12.03-23.25.50:097][913]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Lava_flows_trans, compiling. 
+[2018.12.03-23.25.50:125][914]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Fusebox_Masked, compiling. 
+[2018.12.03-23.25.50:138][914]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Fusebox_Masked, compiling. 
+[2018.12.03-23.25.50:169][915]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Master_Pipe, compiling. 
+[2018.12.03-23.25.50:180][915]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Master_Pipe, compiling. 
+[2018.12.03-23.25.50:207][916]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Cable_02, compiling. 
+[2018.12.03-23.25.50:220][916]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Cable_02, compiling. 
+[2018.12.03-23.25.50:246][917]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Server_01_Masked_6, compiling. 
+[2018.12.03-23.25.50:260][917]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Server_01_Masked_6, compiling. 
+[2018.12.03-23.25.50:290][918]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_EnemyChicken, compiling. 
+[2018.12.03-23.25.50:302][918]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_EnemyChicken, compiling. 
+[2018.12.03-23.25.50:316][918]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_EnemyChicken, compiling. 
+[2018.12.03-23.25.50:344][919]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TexturesCom_Rails0021_2_M_Mat_Inst, compiling. 
+[2018.12.03-23.25.50:356][919]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TexturesCom_Rails0021_2_M_Mat_Inst, compiling. 
+[2018.12.03-23.25.50:382][920]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock_Slate, compiling. 
+[2018.12.03-23.25.50:397][920]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock_Slate, compiling. 
+[2018.12.03-23.25.50:424][921]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Panels, compiling. 
+[2018.12.03-23.25.50:437][921]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Panels, compiling. 
+[2018.12.03-23.25.50:463][922]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Tiles, compiling. 
+[2018.12.03-23.25.50:474][922]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Tiles, compiling. 
+[2018.12.03-23.25.50:498][923]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2018.12.03-23.25.50:510][923]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2018.12.03-23.25.50:537][924]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Steel, compiling. 
+[2018.12.03-23.25.50:550][924]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Steel, compiling. 
+[2018.12.03-23.25.50:602][926]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Floor_02_Masked, compiling. 
+[2018.12.03-23.25.50:613][926]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Floor_02_Masked, compiling. 
+[2018.12.03-23.25.50:639][927]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CobbleStone_Rough, compiling. 
+[2018.12.03-23.25.50:656][927]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CobbleStone_Rough, compiling. 
+[2018.12.03-23.25.50:679][928]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.12.03-23.25.50:704][929]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.12.03-23.25.50:716][929]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Old, compiling. 
+[2018.12.03-23.25.50:729][929]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Old, compiling. 
+[2018.12.03-23.25.50:763][930]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Rust, compiling. 
+[2018.12.03-23.25.50:778][930]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.12.03-23.25.50:778][930]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Rust, compiling. 
+[2018.12.03-23.25.55:297][932]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.03-23.25.55:297][932]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.03-23.25.55:297][932]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.03-23.25.55:298][932]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.03-23.25.55:298][932]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.03-23.25.55:298][932]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.03-23.25.56:160][962]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build failed. Swarm failed to kick off.  Compile Unreal Lightmass.
+[2018.12.03-23.25.56:164][962]DumpUnbuiltLightIteractions
+[2018.12.03-23.25.56:164][962]Lights with unbuilt interactions: 0
+[2018.12.03-23.25.56:164][962]
+[2018.12.03-23.25.56:164][962]Primitives with unbuilt interactions: 0
+[2018.12.03-23.25.56:200][963]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.03-23.25.56:200][963]MapCheck: New page: Fase_VR_Terror-Mapa_corrigido - Dec 3, 2018, 7:25:56 PM
+[2018.12.03-23.25.56:403][963]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 203.027ms to complete.
+[2018.12.03-23.26.04:962][872]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-23.26.04:982][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.26.04:982][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.26.04:995][872]PIE: New page: PIE session: Fase_VR_Terror-Mapa_corrigido (Dec 3, 2018, 7:26:04 PM)
+[2018.12.03-23.26.04:995][872]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido
+[2018.12.03-23.26.05:082][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086788s)
+[2018.12.03-23.26.05:083][872]LogAIModule: Creating AISystem for world Fase_VR_Terror-Mapa_corrigido
+[2018.12.03-23.26.05:083][872]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2018.12.03-23.26.05:083][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido to /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido (0.088166s)
+[2018.12.03-23.26.05:156][872]LogInit: XAudio2 using 'VIVE Pro (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-23.26.05:171][872]LogInit: FAudioDevice initialized.
+[2018.12.03-23.26.05:184][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.26.05:284][872]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-23.26.05:284][872]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-23.26.05:294][872]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.26.05:294][872]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.26.05:294][872]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.26.05:295][872]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.26.05:295][872]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.26.05:295][872]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.26.05:313][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido up for play (max tick rate 0) at 2018.12.03-21.26.05
+[2018.12.03-23.26.05:316][872]LogWorld: Bringing up level for play took: 0.029956
+[2018.12.03-23.26.05:336][872]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.12.03-23.26.05:345][872]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido 0.309
+[2018.12.03-23.26.05:346][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.26.05:408][873]LogRenderer: Reallocating scene render targets to support 3072x1708 Format 26 NumSamples 1 (Frame:1).
+[2018.12.03-23.26.06:846][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.26.06:950][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.26.06:995][961]LogSlate: Window 'FinalMetroVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-23.26.07:035][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.26.07:036][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.26.07:119][962]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.12.03-23.31.12:552][588]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-23.31.14:352][714]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 252859__prometheus22__horror-beat...
+[2018.12.03-23.31.14:365][714]LogTemp: Couldn't find amount to resample to.
+[2018.12.03-23.32.24:903][258]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 371699__rensvdmeijs__dark-ambience-001_01...
+[2018.12.03-23.32.24:907][258]LogTemp: Couldn't find amount to resample to.
+[2018.12.03-23.32.37:473][377]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 43295__noisecollector__deadthetawaves...
+[2018.12.03-23.32.37:483][377]LogTemp: Couldn't find amount to resample to.
+[2018.12.03-23.32.38:423][377]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 7046908 while cooking SoundWave /Game/Sounds/43295__noisecollector__deadthetawaves.43295__noisecollector__deadthetawaves.
+[2018.12.03-23.32.40:779][587]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 421094__deathscyp__metal-pipe-swing-1...
+[2018.12.03-23.32.40:779][587]LogTemp: Couldn't find amount to resample to.
+[2018.12.03-23.32.40:831][587]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 337224 while cooking SoundWave /Game/Sounds/421094__deathscyp__metal-pipe-swing-1.421094__deathscyp__metal-pipe-swing-1.
+[2018.12.03-23.32.44:383][897]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 387136__djfroyd__click-with-my-mouth-reversed...
+[2018.12.03-23.32.44:384][897]LogTemp: Couldn't find amount to resample to.
+[2018.12.03-23.33.31:139][ 90]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/Horror_ambience.Horror_ambience
+[2018.12.03-23.33.33:625][302]LogSlate: Window 'Horror_ambience - Generic Asset Editor' being destroyed
+[2018.12.03-23.34.46:991][599]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blue/Switch.Switch
+[2018.12.03-23.34.47:574][599]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.12.03-23.34.48:619][599]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.03-23.34.48:712][600]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.03-23.36.05:964][436]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-23.37.48:964][368]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/252859__prometheus22__horror-beat.252859__prometheus22__horror-beat
+[2018.12.03-23.37.55:958][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/252859__prometheus22__horror-beat" FILE="D:/FinalMetroVR/Content/Sounds/252859__prometheus22__horror-beat.uasset" SILENT=true
+[2018.12.03-23.37.56:026][187]LogSavePackage: Moving 'D:/FinalMetroVR/Saved/252859__prometheus22__horror-bea943E3285470188CAF366728404A56A7B.tmp' to 'D:/FinalMetroVR/Content/Sounds/252859__prometheus22__horror-beat.uasset'
+[2018.12.03-23.38.04:450][128]BlueprintLog: New page: Compile Switch
+[2018.12.03-23.38.05:952][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blue/Switch" FILE="D:/FinalMetroVR/Content/Blue/Switch.uasset" SILENT=true
+[2018.12.03-23.38.06:015][245]LogSavePackage: Moving 'D:/FinalMetroVR/Saved/SwitchEB43A27F44A5D56C88C36798AC581F52.tmp' to 'D:/FinalMetroVR/Content/Blue/Switch.uasset'
+[2018.12.03-23.38.11:135][600]LogInit: XAudio2 using 'VIVE Pro (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-23.38.36:610][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Fase_VR_Terror-Mapa_corrigido" FILE="D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-23.38.37:638][498]LogSavePackage: Moving 'D:/FinalMetroVR/Saved/Fase_VR_Terror-Mapa_corrigido4F1D1F6D4C18A7743DB30D887A71E6F8.tmp' to 'D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido.umap'
+[2018.12.03-23.38.37:672][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Fase_VR_Terror-Mapa_corrigido_BuiltData" FILE="D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido_BuiltData.uasset" SILENT=true
+[2018.12.03-23.38.38:199][498]LogSavePackage: Moving 'D:/FinalMetroVR/Saved/Fase_VR_Terror-Mapa_corrigido_BuC5FE8E6D430EF9BE915897A7E0A4E66A.tmp' to 'D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido_BuiltData.uasset'
+[2018.12.03-23.38.52:392][748]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-23.38.52:434][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.38.52:435][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.38.52:435][748]PIE: New page: PIE session: Fase_VR_Terror-Mapa_corrigido (Dec 3, 2018, 7:38:52 PM)
+[2018.12.03-23.38.52:435][748]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido
+[2018.12.03-23.38.52:519][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083812s)
+[2018.12.03-23.38.52:520][748]LogAIModule: Creating AISystem for world Fase_VR_Terror-Mapa_corrigido
+[2018.12.03-23.38.52:520][748]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2018.12.03-23.38.52:520][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido to /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido (0.085422s)
+[2018.12.03-23.38.52:599][748]LogInit: XAudio2 using 'VIVE Pro (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-23.38.52:616][748]LogInit: FAudioDevice initialized.
+[2018.12.03-23.38.52:629][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.38.52:713][748]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-23.38.52:713][748]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-23.38.52:722][748]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.38.52:722][748]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.38.52:722][748]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.38.52:722][748]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.38.52:722][748]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.38.52:722][748]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.38.52:742][748]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido up for play (max tick rate 0) at 2018.12.03-21.38.52
+[2018.12.03-23.38.52:745][748]LogWorld: Bringing up level for play took: 0.030514
+[2018.12.03-23.38.52:767][748]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido -0.281
+[2018.12.03-23.38.52:768][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.38.54:820][857]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2018.12.03-23.39.07:159][597]LogBlueprintUserMessages: [Key_2] chave coletada
+[2018.12.03-23.40.49:438][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.40.49:438][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.40.49:574][547]LogSlate: Window 'FinalMetroVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-23.40.49:622][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.40.49:623][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.40.49:812][548]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.12.03-23.41.17:363][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Horror_ambience" FILE="D:/FinalMetroVR/Content/Sounds/Horror_ambience.uasset" SILENT=true
+[2018.12.03-23.41.17:831][423]LogSavePackage: Moving 'D:/FinalMetroVR/Saved/Horror_ambience4AE05C364C5276D196D567AE3EAC676F.tmp' to 'D:/FinalMetroVR/Content/Sounds/Horror_ambience.uasset'
+[2018.12.03-23.41.21:368][804]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Sounds/252859__prometheus22__horror-beat.252859__prometheus22__horror-beat
+[2018.12.03-23.41.26:053][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/252859__prometheus22__horror-beat" FILE="D:/FinalMetroVR/Content/Sounds/252859__prometheus22__horror-beat.uasset" SILENT=true
+[2018.12.03-23.41.26:071][349]LogSavePackage: Moving 'D:/FinalMetroVR/Saved/252859__prometheus22__horror-beaE0A2A57541C4F5BE5AE76A8F364C1581.tmp' to 'D:/FinalMetroVR/Content/Sounds/252859__prometheus22__horror-beat.uasset'
+[2018.12.03-23.42.20:737][479]BlueprintLog: New page: Compile Switch
+[2018.12.03-23.42.23:040][656]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-23.42.23:077][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.42.23:077][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.42.23:077][656]PIE: New page: PIE session: Fase_VR_Terror-Mapa_corrigido (Dec 3, 2018, 7:42:23 PM)
+[2018.12.03-23.42.23:078][656]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido
+[2018.12.03-23.42.23:160][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082710s)
+[2018.12.03-23.42.23:161][656]LogAIModule: Creating AISystem for world Fase_VR_Terror-Mapa_corrigido
+[2018.12.03-23.42.23:161][656]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2018.12.03-23.42.23:162][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido to /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido (0.084090s)
+[2018.12.03-23.42.23:240][656]LogInit: XAudio2 using 'VIVE Pro (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-23.42.23:256][656]LogInit: FAudioDevice initialized.
+[2018.12.03-23.42.23:268][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.42.23:354][656]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-23.42.23:354][656]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-23.42.23:362][656]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.42.23:362][656]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.42.23:362][656]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.42.23:362][656]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.42.23:362][656]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.42.23:363][656]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.42.23:379][656]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido up for play (max tick rate 0) at 2018.12.03-21.42.23
+[2018.12.03-23.42.23:382][656]LogWorld: Bringing up level for play took: 0.026777
+[2018.12.03-23.42.23:406][656]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido 0.356
+[2018.12.03-23.42.23:407][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.42.25:450][777]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2018.12.03-23.42.38:456][555]LogBlueprintUserMessages: [Key_2] chave coletada
+[2018.12.03-23.44.14:225][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.44.14:225][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.44.14:357][455]LogSlate: Window 'FinalMetroVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-23.44.14:401][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.44.14:401][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.44.14:595][456]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.03-23.44.23:740][290]LogEditorViewport: Clicking on Actor (LMB): Light01_C (Light01)
+[2018.12.03-23.44.30:215][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.44.30:315][847]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Light01.Light01
+[2018.12.03-23.45.06:594][ 97]BlueprintLog: New page: Compile Light01
+[2018.12.03-23.45.42:875][256]BlueprintLog: New page: Compile Light01
+[2018.12.03-23.45.45:965][508]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-23.45.45:991][508]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.45.45:991][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.45.45:991][508]PIE: New page: PIE session: Fase_VR_Terror-Mapa_corrigido (Dec 3, 2018, 7:45:45 PM)
+[2018.12.03-23.45.45:992][508]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido
+[2018.12.03-23.45.46:076][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084780s)
+[2018.12.03-23.45.46:077][508]LogAIModule: Creating AISystem for world Fase_VR_Terror-Mapa_corrigido
+[2018.12.03-23.45.46:078][508]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2018.12.03-23.45.46:078][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido to /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido (0.086123s)
+[2018.12.03-23.45.46:157][508]LogInit: XAudio2 using 'VIVE Pro (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-23.45.46:173][508]LogInit: FAudioDevice initialized.
+[2018.12.03-23.45.46:185][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.45.46:277][508]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-23.45.46:277][508]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-23.45.46:286][508]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.45.46:286][508]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.45.46:286][508]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.45.46:286][508]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.45.46:286][508]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.45.46:286][508]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.45.46:304][508]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido up for play (max tick rate 0) at 2018.12.03-21.45.46
+[2018.12.03-23.45.46:307][508]LogWorld: Bringing up level for play took: 0.028652
+[2018.12.03-23.45.46:331][508]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido 1.28
+[2018.12.03-23.45.46:332][508]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.45.48:383][624]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2018.12.03-23.45.52:371][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.45.52:479][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.45.52:526][815]LogSlate: Window 'FinalMetroVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-23.45.52:571][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.45.52:572][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.45.52:663][816]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.12.03-23.46.07:315][262]LogEditorViewport: Clicking on Actor (LMB): Blueprint_CeilingLight_C (Blueprint_CeilingLight)
+[2018.12.03-23.46.09:716][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.46.10:680][544]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight
+[2018.12.03-23.46.24:634][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Light01" FILE="D:/FinalMetroVR/Content/Blueprints/Light01.uasset" SILENT=true
+[2018.12.03-23.46.24:682][125]LogSavePackage: Moving 'D:/FinalMetroVR/Saved/Light0195B0559A40E9EA3C02FC2FBE4A2F3427.tmp' to 'D:/FinalMetroVR/Content/Blueprints/Light01.uasset'
+[2018.12.03-23.46.34:472][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.46.34:562][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Fase_VR_Terror-Mapa_corrigido" FILE="D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-23.46.35:619][924]LogSavePackage: Moving 'D:/FinalMetroVR/Saved/Fase_VR_Terror-Mapa_corrigido8F5A46C442BB8FDF3ECD04ACB0A010A3.tmp' to 'D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido.umap'
+[2018.12.03-23.46.35:652][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Fase_VR_Terror-Mapa_corrigido_BuiltData" FILE="D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido_BuiltData.uasset" SILENT=true
+[2018.12.03-23.46.35:925][924]LogSavePackage: Moving 'D:/FinalMetroVR/Saved/Fase_VR_Terror-Mapa_corrigido_BuEF18F7AD4332F98C7EBA7384B4AC8173.tmp' to 'D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido_BuiltData.uasset'
+[2018.12.03-23.46.36:496][971]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-23.46.36:515][971]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.46.36:516][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.46.36:516][971]PIE: New page: PIE session: Fase_VR_Terror-Mapa_corrigido (Dec 3, 2018, 7:46:36 PM)
+[2018.12.03-23.46.36:516][971]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido
+[2018.12.03-23.46.36:595][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079031s)
+[2018.12.03-23.46.36:596][971]LogAIModule: Creating AISystem for world Fase_VR_Terror-Mapa_corrigido
+[2018.12.03-23.46.36:596][971]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2018.12.03-23.46.36:596][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido to /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido (0.080316s)
+[2018.12.03-23.46.36:671][971]LogInit: XAudio2 using 'VIVE Pro (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-23.46.36:686][971]LogInit: FAudioDevice initialized.
+[2018.12.03-23.46.36:696][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.46.36:786][971]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-23.46.36:786][971]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-23.46.36:795][971]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.46.36:795][971]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.46.36:795][971]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.46.36:795][971]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.12.03-23.46.36:795][971]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.46.36:795][971]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe] ScaledElem[0] invalid
+[2018.12.03-23.46.36:814][971]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido up for play (max tick rate 0) at 2018.12.03-21.46.36
+[2018.12.03-23.46.36:817][971]LogWorld: Bringing up level for play took: 0.029990
+[2018.12.03-23.46.36:842][971]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Fase_VR_Terror-Mapa_corrigido -0.209
+[2018.12.03-23.46.36:843][971]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.46.38:891][ 90]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2018.12.03-23.46.51:921][885]LogBlueprintUserMessages: [Key_2] chave coletada
+[2018.12.03-23.48.51:414][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.48.51:499][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.48.51:546][924]LogSlate: Window 'FinalMetroVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-23.48.51:598][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.48.51:599][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido' with GeneratedClass '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido_C' with ClassGeneratedBy '/Game/Maps/Fase_VR_Terror-Mapa_corrigido.Fase_VR_Terror-Mapa_corrigido:PersistentLevel.Fase_VR_Terror-Mapa_corrigido'
+[2018.12.03-23.48.51:710][925]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.03-23.48.53:937][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Fase_VR_Terror-Mapa_corrigido" FILE="D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-23.48.54:967][136]LogSavePackage: Moving 'D:/FinalMetroVR/Saved/Fase_VR_Terror-Mapa_corrigido6FC576754FD8A7326A886D8ED87B2730.tmp' to 'D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido.umap'
+[2018.12.03-23.48.55:004][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Fase_VR_Terror-Mapa_corrigido_BuiltData" FILE="D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido_BuiltData.uasset" SILENT=true
+[2018.12.03-23.48.55:272][136]LogSavePackage: Moving 'D:/FinalMetroVR/Saved/Fase_VR_Terror-Mapa_corrigido_BuD326EBDE452284304ACC8E9CF9EA9080.tmp' to 'D:/FinalMetroVR/Content/Maps/Fase_VR_Terror-Mapa_corrigido_BuiltData.uasset'
+[2018.12.03-23.48.57:762][220]LogSlate: Window 'Save Content' being destroyed
+[2018.12.03-23.48.57:802][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blue/Switch" FILE="D:/FinalMetroVR/Content/Blue/Switch.uasset" SILENT=true
+[2018.12.03-23.48.57:864][220]LogSavePackage: Moving 'D:/FinalMetroVR/Saved/Switch464F92904A92CD64CA38D1A164A79792.tmp' to 'D:/FinalMetroVR/Content/Blue/Switch.uasset'
+[2018.12.03-23.48.58:034][220]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.03-23.48.58:105][220]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.03-23.48.58:172][220]LogSlate: Window 'FinalMetroVR - Unreal Editor' being destroyed
+[2018.12.03-23.48.58:173][220]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-23.48.58:367][221]Cmd: QUIT_EDITOR
+[2018.12.03-23.48.58:422][221]LogExit: Preparing to exit.
+[2018.12.03-23.48.59:343][221]LogExit: Editor shut down
+[2018.12.03-23.48.59:344][221]LogExit: Transaction tracking system shut down
+[2018.12.03-23.49.00:018][221]LogExit: Object subsystem successfully closed.
+[2018.12.03-23.49.00:055][221]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.03-23.49.00:073][221]LogD3D11RHI: Shutdown
+[2018.12.03-23.49.00:073][221]LogD3D11RHI: CleanupD3DDevice
+[2018.12.03-23.49.00:078][221]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.03-23.49.00:105][221]LogModuleManager: Shutting down and abandoning module BlueprintGraph (636)
+[2018.12.03-23.49.00:105][221]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (634)
+[2018.12.03-23.49.00:105][221]LogModuleManager: Shutting down and abandoning module Voice (632)
+[2018.12.03-23.49.00:105][221]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (630)
+[2018.12.03-23.49.00:105][221]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (628)
+[2018.12.03-23.49.00:105][221]LogModuleManager: Shutting down and abandoning module SceneOutliner (626)
+[2018.12.03-23.49.00:105][221]LogModuleManager: Shutting down and abandoning module AddContentDialog (624)
+[2018.12.03-23.49.00:106][221]LogModuleManager: Shutting down and abandoning module WidgetCarousel (623)
+[2018.12.03-23.49.00:106][221]LogModuleManager: Shutting down and abandoning module EditorWidgets (620)
+[2018.12.03-23.49.00:106][221]LogModuleManager: Shutting down and abandoning module CollectionManager (618)
+[2018.12.03-23.49.00:106][221]LogModuleManager: Shutting down and abandoning module StatsViewer (616)
+[2018.12.03-23.49.00:106][221]LogModuleManager: Shutting down and abandoning module FoliageEdit (614)
+[2018.12.03-23.49.00:106][221]LogModuleManager: Shutting down and abandoning module LandscapeEditor (612)
+[2018.12.03-23.49.00:106][221]LogModuleManager: Shutting down and abandoning module MeshPaintMode (610)
+[2018.12.03-23.49.00:106][221]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (608)
+[2018.12.03-23.49.00:106][221]LogModuleManager: Shutting down and abandoning module ActorPickerMode (606)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module GeometryMode (604)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module TextureAlignMode (602)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module BspMode (600)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (598)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (596)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module AutomationWorker (594)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (592)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (590)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (588)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module SequenceRecorder (585)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (582)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (580)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module PlacementMode (579)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module MaterialEditor (578)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (574)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (572)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (568)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (566)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (564)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (562)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (560)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (558)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (556)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (554)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (552)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (550)
+[2018.12.03-23.49.00:107][221]LogModuleManager: Shutting down and abandoning module CharacterAI (548)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module SmartSnapping (546)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module SessionServices (544)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module ViewportSnapping (542)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module ViewportInteraction (540)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module ClothPainter (538)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (537)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module LogVisualizer (534)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module IntroTutorials (532)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (531)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (528)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (526)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (524)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (522)
+[2018.12.03-23.49.00:108][221]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (521)
+[2018.12.03-23.49.00:563][221]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (518)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (516)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (514)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (512)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module InputBindingEditor (510)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module MergeActors (508)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (506)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module LocalizationService (505)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module HardwareTargeting (502)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (500)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module UndoHistory (498)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module XmlParser (496)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module Blutility (494)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (492)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (491)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (488)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module SettingsEditor (486)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module ProjectLauncher (484)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module SessionFrontend (482)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module ProfilerClient (480)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module DeviceManager (478)
+[2018.12.03-23.49.00:564][221]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (477)
+[2018.12.03-23.49.00:620][221]LogModuleManager: Shutting down and abandoning module AutomationController (474)
+[2018.12.03-23.49.00:620][221]LogModuleManager: Shutting down and abandoning module AutomationWindow (472)
+[2018.12.03-23.49.00:620][221]LogModuleManager: Shutting down and abandoning module Layers (470)
+[2018.12.03-23.49.00:620][221]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (468)
+[2018.12.03-23.49.00:620][221]LogModuleManager: Shutting down and abandoning module DetailCustomizations (466)
+[2018.12.03-23.49.00:620][221]LogModuleManager: Shutting down and abandoning module PackagesDialog (464)
+[2018.12.03-23.49.00:620][221]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2018.12.03-23.49.00:620][221]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2018.12.03-23.49.00:620][221]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2018.12.03-23.49.00:628][221]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2018.12.03-23.49.00:628][221]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2018.12.03-23.49.00:628][221]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2018.12.03-23.49.00:628][221]LogModuleManager: Shutting down and abandoning module ModuleUI (450)
+[2018.12.03-23.49.00:628][221]LogModuleManager: Shutting down and abandoning module MovieSceneTools (448)
+[2018.12.03-23.49.00:628][221]LogModuleManager: Shutting down and abandoning module OutputLog (446)
+[2018.12.03-23.49.00:628][221]LogModuleManager: Shutting down and abandoning module GammaUI (444)
+[2018.12.03-23.49.00:628][221]LogModuleManager: Shutting down and abandoning module Documentation (442)
+[2018.12.03-23.49.00:628][221]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (440)
+[2018.12.03-23.49.00:628][221]LogModuleManager: Shutting down and abandoning module MovieScene (438)
+[2018.12.03-23.49.00:629][221]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (436)
+[2018.12.03-23.49.00:629][221]LogModuleManager: Shutting down and abandoning module LauncherPlatform (434)
+[2018.12.03-23.49.00:629][221]LogModuleManager: Shutting down and abandoning module AnalyticsET (432)
+[2018.12.03-23.49.00:629][221]LogModuleManager: Shutting down and abandoning module PortalServices (430)
+[2018.12.03-23.49.00:629][221]LogModuleManager: Shutting down and abandoning module PortalRpc (428)
+[2018.12.03-23.49.00:629][221]LogModuleManager: Shutting down and abandoning module MessagingRpc (426)
+[2018.12.03-23.49.00:629][221]LogModuleManager: Shutting down and abandoning module AIModule (424)
+[2018.12.03-23.49.00:629][221]LogModuleManager: Shutting down and abandoning module GameplayDebugger (423)
+[2018.12.03-23.49.00:629][221]LogModuleManager: Shutting down and abandoning module AITestSuite (421)
+[2018.12.03-23.49.00:629][221]LogModuleManager: Shutting down and abandoning module NavigationSystem (419)
+[2018.12.03-23.49.00:629][221]LogModuleManager: Shutting down and abandoning module DesktopPlatform (416)
+[2018.12.03-23.49.00:629][221]LogModuleManager: Shutting down and abandoning module ProfilerService (414)
+[2018.12.03-23.49.00:635][221]LogModuleManager: Shutting down and abandoning module TaskGraph (412)
+[2018.12.03-23.49.00:635][221]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (410)
+[2018.12.03-23.49.00:635][221]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (408)
+[2018.12.03-23.49.00:635][221]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (407)
+[2018.12.03-23.49.00:635][221]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (406)
+[2018.12.03-23.49.00:635][221]LogModuleManager: Shutting down and abandoning module DatasmithMDLImporter (402)
+[2018.12.03-23.49.00:637][221]LogModuleManager: Shutting down and abandoning module DatasmithImporter (400)
+[2018.12.03-23.49.00:637][221]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.12.03-23.49.00:637][221]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.12.03-23.49.00:637][221]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.12.03-23.49.00:638][221]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.12.03-23.49.00:643][221]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.12.03-23.49.00:643][221]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.12.03-23.49.00:643][221]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.12.03-23.49.00:643][221]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.12.03-23.49.00:643][221]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.12.03-23.49.00:643][221]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.12.03-23.49.00:643][221]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.12.03-23.49.00:643][221]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.12.03-23.49.00:643][221]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.12.03-23.49.00:643][221]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.12.03-23.49.00:643][221]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.12.03-23.49.00:643][221]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (330)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.03-23.49.00:644][221]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.03-23.49.00:645][221]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.03-23.49.00:746][221]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.03-23.49.00:847][221]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.03-23.49.00:847][221]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.03-23.49.00:847][221]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.03-23.49.00:847][221]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.03-23.49.00:847][221]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.03-23.49.00:847][221]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.03-23.49.00:848][221]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.03-23.49.00:848][221]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.03-23.49.00:849][221]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.03-23.49.00:849][221]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.03-23.49.00:849][221]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.03-23.49.00:850][221]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.03-23.49.00:851][221]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.03-23.49.00:851][221]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.03-23.49.00:851][221]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.03-23.49.00:851][221]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.03-23.49.00:851][221]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.03-23.49.00:851][221]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.03-23.49.00:854][221]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.03-23.49.00:860][221]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.03-23.49.00:860][221]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.03-23.49.00:860][221]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.03-23.49.00:860][221]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.03-23.49.00:860][221]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.03-23.49.00:860][221]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.03-23.49.00:860][221]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.03-23.49.00:861][221]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.03-23.49.00:864][221]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.03-23.49.00:930][221]LogDerivedDataCache: Shutdown
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.03-23.49.00:931][221]LogXGEController: Cleaning working directory: C:/Users/11510763/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.03-23.49.00:931][221]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.03-23.49.00:932][221]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.03-23.49.00:932][221]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.03-23.49.00:932][221]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.03-23.49.00:933][221]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.03-23.49.00:933][221]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.03-23.49.00:934][221]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.03-23.49.00:934][221]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.03-23.49.00:942][221]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.03-23.49.00:944][221]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.03-23.49.00:944][221]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.03-23.49.00:951][221]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.03-23.49.00:952][221]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.03-23.49.00:952][221]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEC9D4011-407A-5B32-E4E9-DBA4965C481E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=118918074864bf3bec6380a66290fbeb%7Cfd633101e9a24b19bf0e30c3f340aad5%7C65ca6e9b-7a9a-40c6-979b-609fd905ce3c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.03-23.49.00:962][221]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.03-23.49.00:964][221]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.03-23.49.00:964][221]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.03-23.49.00:965][221]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.03-23.49.00:965][221]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.03-23.49.00:965][221]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.03-23.49.00:966][221]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.03-23.49.00:966][221]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.03-23.49.00:966][221]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.03-23.49.00:966][221]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.03-23.49.00:966][221]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.03-23.49.00:966][221]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.03-23.49.00:966][221]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.03-23.49.00:966][221]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.03-23.49.00:966][221]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.03-23.49.00:966][221]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.03-23.49.00:966][221]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.03-23.49.00:987][221]LogExit: Exiting.
+[2018.12.03-23.49.01:006][221]Log file closed, 12/03/18 21:49:01
